@@ -1,0 +1,16 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url('./assets/scomo.jpg');
+
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 124px;
+}
+
+h2 {
+    font-size: 86px;
+}
